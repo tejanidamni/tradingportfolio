@@ -27,18 +27,21 @@ This project simulates a trading system capable of handling stocks and European 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/PortfolioValuationSystem.git
-   cd PortfolioValuationSystem
+```bash
+   git clone https://github.com/tejanidamni/tradingportfolio.git
+   cd tradingportfolio
+```
 
 2. Build the project:
 
 ```bash
-    ./gradlew build
+./gradlew build
+```
 
 3. Run the project:
 ```bash
     ./gradlew run
+```
 
 ### Usage
 CSV File: Update src/main/resources/positions.csv with your portfolio data.
